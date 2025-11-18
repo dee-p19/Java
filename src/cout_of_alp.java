@@ -11,6 +11,5 @@ public class cout_of_alp {
            a[s.charAt(i)-'a']++;
         }
 
-
     }
 }
